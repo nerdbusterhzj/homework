@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<float.h>
+int main()
+{
+	printf("double MAX=%le, MIN=%le\n", DBL_MAX, DBL_MIN);
+	system("pause");
+	return 0;
+	
+ }
